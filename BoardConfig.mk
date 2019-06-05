@@ -24,7 +24,7 @@
 # components.
 
 #Device Path
-DEVICE_PATH ;= device/asus/X01AD
+DEVICE_PATH := device/asus/X01AD
 
 # Architecture
 TARGET_ARCH := arm64
